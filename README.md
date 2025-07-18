@@ -60,10 +60,10 @@ For access to the LLM prompt templates or Any other queries:
 - **Backend**: AWS Lambda, Amazon API Gateway, Amazon Bedrock (LLaMA 3), DynamoDB
 - **Data Sources**: Financial Modeling Prep, Polygon, NewsAPI
 - **Visualization**: AWS S3 + QuickSight
-
+We have ingested RAG pipeline using ChromaDB for faster retrival and better results. For help reach out.
 ---
 
 ## 💬 Support
-For backend or AWS help, reach out to **manav@ieee.org**.
+For help, reach out to **manav@ieee.org**.
 
 > Thank you for exploring AIvestor — where finance meets AI decision-making.
